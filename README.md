@@ -2,6 +2,7 @@
   <head>  
     <title>ciudadania digital!</title>
 
+ <link rel="icon" type="image/png" href="https://www.nicepng.com/ourpic/u2t4u2q8y3y3i1e6_escudo-asociacin-uruguaya-de-ftbol-v1-uruguay-national/">
   </head>    
   <body style="background-color:3B9C63"> <h1>¡ciudadania digital</h1>  <h2>tema IA</h2>  <h2>el impacto de la IA en la sociedad y en el ambiente</h2>  
 
