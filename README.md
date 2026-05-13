@@ -6,6 +6,16 @@
   </head>    
   <body style="background-color:#5DE3DC"> <h1>¡ciudadania digital</h1>  <h2>tema IA</h2>  <h2>el impacto de la IA en la sociedad y en el ambiente</h2>  
 
+
+  <div style="
+  background-color:white;
+  width:60%;
+  padding:20px;
+  margin:20px auto 20px 0;
+  border-left:8px solid black;
+  border-radius:0 10px 10px 0;
+">
+
 <p style="font-size:25px;">La inteligencia artificial (IA) tiene un gran impacto en la sociedad y en el ambiente, ya que cada vez está más presente en la vida cotidiana. En la sociedad, la IA facilita muchas tareas, mejora la comunicación y ayuda en áreas como la medicina, la educación y el trabajo. Por ejemplo, puede utilizarse para diagnosticar enfermedades, traducir idiomas o automatizar procesos que antes realizaban las personas. Sin embargo, también puede generar problemas, como la pérdida de algunos empleos debido a la automatización, la dependencia excesiva de la tecnología y los riesgos relacionados con la privacidad y la seguridad de los datos.
 
 En el aspecto ambiental, la inteligencia artificial puede ayudar a proteger el medio ambiente mediante sistemas que controlan el consumo de energía, detectan incendios forestales o mejoran el reciclaje. Además, puede colaborar en investigaciones científicas para combatir el cambio climático. Pero al mismo tiempo, el uso de servidores, computadoras y centros de datos consume grandes cantidades de electricidad y recursos naturales, lo que también produce contaminación y emisiones de carbono.
