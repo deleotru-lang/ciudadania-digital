@@ -23,16 +23,16 @@ En el aspecto ambiental, la inteligencia artificial puede ayudar a proteger el m
 Por eso, es importante utilizar la inteligencia artificial de manera responsable y ética, buscando aprovechar sus beneficios sin perjudicar a las personas ni al planeta.</p>
 
 <img 
-src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIuGU_BGu6Kc-mKSK_WoKP_HTrCTPu3JkUkw&s" 
-width="600"
+src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_QAbuJ-3IcyYtNFrzZp8g3rvw2_SS8uec7g&s" 
+width="500"
 style="border:5px solid black;">
-</center>
+
 <h2>Uso ético y sesgos de la IA</h2>  
  
   <p style="font-size:25px;">El uso ético de la inteligencia artificial consiste en utilizar esta tecnología de manera responsable, justa y segura, respetando los derechos de las personas. La IA debe ayudar a mejorar la vida de la sociedad sin causar daño, discriminación o problemas relacionados con la privacidad. Por ejemplo, es importante que las personas sepan cuándo están interactuando con una inteligencia artificial y que sus datos personales estén protegidos.  Uno de los principales problemas de la IA son los sesgos. Los sesgos ocurren cuando los sistemas de inteligencia artificial toman decisiones injustas o equivocadas debido a la información con la que fueron entrenados. Si los datos contienen prejuicios o errores, la IA puede repetir esas desigualdades. Esto puede suceder en áreas como la selección de empleos, el reconocimiento facial o las recomendaciones en internet, afectando de manera negativa a ciertos grupos de personas.
 
 Por eso, es fundamental desarrollar inteligencias artificiales transparentes, inclusivas y supervisadas por seres humanos, para evitar injusticias y garantizar un uso ético y beneficioso para toda la sociedad.</p>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIuGU_BGu6Kc-mKSK_WoKP_HTrCTPu3JkUkw&s" width="1000" style="border:5px solid black;">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIuGU_BGu6Kc-mKSK_WoKP_HTrCTPu3JkUkw&s" width="500" style="border:5px solid black;">
 
 
 <h2>Pivacidad y derecho de imagen.</h2>    
