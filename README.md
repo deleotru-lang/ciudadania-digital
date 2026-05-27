@@ -38,13 +38,34 @@ Por eso, es fundamental desarrollar inteligencias artificiales transparentes, in
 <h2>Pivacidad y derecho de imagen.</h2>    
      <p style="font-size:25px;">La privacidad y el derecho de imagen son aspectos muy importantes en el entorno digital. La privacidad se refiere al derecho que tiene cada persona de proteger su información personal, como fotos, datos, conversaciones o ubicación, evitando que otros la utilicen sin permiso. En internet y las redes sociales, muchas veces las personas comparten información sin pensar en los riesgos, lo que puede provocar problemas como robo de identidad, estafas o exposición de datos privados.  
 El derecho de imagen, por otro lado, protege la utilización de fotografías, videos o cualquier representación de una persona. Esto significa que nadie debería publicar o compartir imágenes de otra persona sin su consentimiento, especialmente si puede afectar su reputación, seguridad o vida privada. En la actualidad, con el uso masivo de redes sociales y herramientas digitales, es fundamental respetar este derecho y actuar de manera responsable al compartir contenido en internet.  
-Por eso, cuidar la privacidad y respetar el derecho de imagen ayuda a construir una convivencia digital más segura, ética y respetuosa para todos.</p>  <h2>Regulaciones y derechos digitales.</h2>  
+Por eso, cuidar la privacidad y respetar el derecho de imagen ayuda a construir una convivencia digital más segura, ética y respetuosa para todos.</p> 
+
+
+
+<img 
+src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH-HpFhj5FTiVbqfQXfWtQjI61W1y215LtVw&s" 
+width="500"
+style="border:5px solid black;">
+
+
+
+<h2>Regulaciones y derechos digitales.</h2>  
+
+
+
 
    <p style="font-size:25px;">Las regulaciones y los derechos digitales son normas y principios que buscan proteger a las personas en el uso de internet y las tecnologías digitales. Así como existen leyes en la vida cotidiana, también hay reglas que ayudan a garantizar una convivencia segura y respetuosa en el entorno virtual. Estas regulaciones establecen límites para el uso de la información, la protección de datos personales y el respeto por la privacidad y la libertad de expresión.
 
 Los derechos digitales incluyen el acceso a internet, la protección de la identidad y los datos personales, la libertad de opinión y el derecho a utilizar la tecnología de manera segura. También contemplan la posibilidad de denunciar situaciones como el ciberacoso, las estafas o el uso indebido de información privada. Además, las regulaciones buscan que las empresas y plataformas digitales actúen de forma responsable con los datos de los usuarios.
 
 En la actualidad, estos derechos son cada vez más importantes debido al crecimiento de las redes sociales y la inteligencia artificial. Por eso, conocer las regulaciones y respetar los derechos digitales permite utilizar la tecnología de manera ética, responsable y segura para toda la sociedad.</p>
+
+
+<img 
+src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH-HpFhj5FTiVbqfQXfWtQjI61W1y215LtVw&s" 
+width="500"
+style="border:5px solid black;">
+
 
 <h2>Plagio digital.</h2>  
 
