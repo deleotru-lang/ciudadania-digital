@@ -13,7 +13,7 @@
   width:100%;
   padding:20px;
    margin:40px auto 20px 0;
-  border-left:8px green;
+  border-left:8px solid black;
   border-radius:0 10px 10px 0;
 ">
     <h2>el impacto de la IA en la sociedad y en el ambiente</h2>
