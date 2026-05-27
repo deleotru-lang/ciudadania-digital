@@ -2,7 +2,7 @@
   <head>  
     <title>Usos de la IA</title>
 
- <link rel="icon" type="image/png" href="https://upload.wikimedia.org/wikipedia/commons/6/68/Selecci%C3%B3n_de_f%C3%BAtbol_de_Uruguay.png">
+ <link rel="icon" type="image/png" href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaC-mQvp9r4ue9Izj20lRghzTiunW_QG3f-A&s">
   </head>    
   <body style="background-color:#5DE3DC"> <h1>¡ciudadania digital</h1>      
 
