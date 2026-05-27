@@ -9,10 +9,10 @@
 
   <div style="
   background-color:white;
-  width:60%;
+  width:80%;
   padding:20px;
-  margin:auto;
-  border-left:8px solid black;
+   margin:20px auto 20px 0;
+  border-left:8px solid green;
   border-radius:0 10px 10px 0;
 ">
 
