@@ -1,10 +1,10 @@
 <html>    
   <head>  
-    <title>ciudadania digital!</title>
+    <title>Usos de la IA</title>
 
- <link rel="icon" type="image/png" href=https://upload.wikimedia.org/wikipedia/commons/6/68/Selecci%C3%B3n_de_f%C3%BAtbol_de_Uruguay.png">
+ <link rel="icon" type="image/png" href="https://upload.wikimedia.org/wikipedia/commons/6/68/Selecci%C3%B3n_de_f%C3%BAtbol_de_Uruguay.png">
   </head>    
-  <body style="background-color:#5DE3DC"> <h1>¡ciudadania digital</h1>  <h2>tema IA</h2>    
+  <body style="background-color:#5DE3DC"> <h1>¡ciudadania digital</h1>      
 
 
 
@@ -25,14 +25,14 @@ Por eso, es importante utilizar la inteligencia artificial de manera responsable
 <img 
 src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIuGU_BGu6Kc-mKSK_WoKP_HTrCTPu3JkUkw&s" 
 width="600"
-style="border:2px solid black;">
+style="border:5px solid black;">
 </center>
 <h2>Uso ético y sesgos de la IA</h2>  
  
   <p style="font-size:25px;">El uso ético de la inteligencia artificial consiste en utilizar esta tecnología de manera responsable, justa y segura, respetando los derechos de las personas. La IA debe ayudar a mejorar la vida de la sociedad sin causar daño, discriminación o problemas relacionados con la privacidad. Por ejemplo, es importante que las personas sepan cuándo están interactuando con una inteligencia artificial y que sus datos personales estén protegidos.  Uno de los principales problemas de la IA son los sesgos. Los sesgos ocurren cuando los sistemas de inteligencia artificial toman decisiones injustas o equivocadas debido a la información con la que fueron entrenados. Si los datos contienen prejuicios o errores, la IA puede repetir esas desigualdades. Esto puede suceder en áreas como la selección de empleos, el reconocimiento facial o las recomendaciones en internet, afectando de manera negativa a ciertos grupos de personas.
 
 Por eso, es fundamental desarrollar inteligencias artificiales transparentes, inclusivas y supervisadas por seres humanos, para evitar injusticias y garantizar un uso ético y beneficioso para toda la sociedad.</p>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIuGU_BGu6Kc-mKSK_WoKP_HTrCTPu3JkUkw&s" width="1000" style="border:2px solid black;">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIuGU_BGu6Kc-mKSK_WoKP_HTrCTPu3JkUkw&s" width="1000" style="border:5px solid black;">
 
 
 <h2>Pivacidad y derecho de imagen.</h2>    
